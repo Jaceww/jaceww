@@ -11,6 +11,6 @@
 
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaceww&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/Jaceww/)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaceww&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/Jaceww/)
-
-
+-->
